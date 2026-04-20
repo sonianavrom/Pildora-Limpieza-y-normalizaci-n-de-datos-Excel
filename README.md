@@ -6,4 +6,5 @@ En esta píldora formativa veremos la diferencia entre limpieza y normalización
 El objetivo es conseguir datos claros y fiables, para mejorar la calidad de los informes.
 
 💊 [Píldora formativa 20/04/2026](https://canva.link/c7tvhu56vf558kh)
+
 🎮 [Juego](https://view.genially.com/69e223b720cd0ef91e669364)
